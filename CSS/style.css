@@ -117,7 +117,7 @@ nav a[href="produits.html"] {
 
 .banner {
     background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), 
-    url('ASSET/Cycliste-hometrainer.webp') center 28%/cover no-repeat;
+    url('/ASSET/Cycliste-hometrainer.webp') center 28%/cover no-repeat;
     display: flex;
     flex-direction: column;
     align-items: center;
